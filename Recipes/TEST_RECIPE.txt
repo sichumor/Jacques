@@ -1,0 +1,8 @@
+This is a test recipe made with the  "new recipe" function of Jacques.
+To type this, I simply typed 'new recipe' into Jacques, who then opened
+the editor. Note that you can only type one line into it at a time,
+with no back spacing between lines. Sorry! The point wasn't to make a
+fully functional text editor, but to provide a single place for all the
+recipes, along with search functionality.
+
+You can exit the editor by typing 'STOP' (all caps) in a new line.

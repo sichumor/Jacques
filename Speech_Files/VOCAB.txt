@@ -1,0 +1,20 @@
+le repas: meal;Il n'y a rien de mieux qu'un bon repas.
+le petit-dejeuner: breakfast;Le petit-dejeuner est le repas le plus important de la journee.
+le dejeuner: lunch;Il n'a pas dejeuner, alors maintenant il a faim.
+le diner: dinner;Je la verrai au diner.
+le gouter: snack;Si vous prenez un gouter maintenant, vous perdrez votre appetit.
+la salade: salad;J'aime les fraises dans ma salade.
+la soupe: soup;Avant le diner, ils avaient soupe de pommes de terre.
+le dessert: dessert;Et pour le dessert, on aura des macarons.
+le bonbon: candy;Les enfants veulent des bonbons.
+manger: to eat;La fille mange une banane.
+le fromage: cheese;Voulez-vous du fromage et du vin?
+nouveau: new;Le costume du garcon est nouveau.
+parler: to speak;Baxter, vous savez que je ne parle pas l'espagnol.
+boire: to drink;Que voulez-vous boire?
+le pomme de terre;Les pommes de terre mettent longtemps a cuire au four.
+le garcon: boy;Nous sommes un garcon et une fille.
+le soleil: sun;Il y a du soleil et du vent.
+mauvais: bad;Il fait mauvais et il fait froid.
+acheter: to buy;J'achete du vin rouge.
+sombre: dark;Nous avons des chaussures sombres.
